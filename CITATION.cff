@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Häusler"
+  given-names: "Axel"
+- family-names: "Oldenburg"
+  given-names: "Carsten"
+title: "npWordCloud"
+version: 1.1.0
+date-released: 2021-12-18
+url: "https://github.com/github/linguist"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Häusler"
+    given-names: "Axel"
+  - family-names: "Oldenburg"
+    given-names: "Carsten"
+  title: "KI-gestützter Wordcloud-Generator für Beteiligungsprozesse"
+  conference:
+    name: "REAL CORP 2021: CITIES 20.50"
+  collection-title: "REAL CORP 2021: CITIES 20.50. Creating Habitats for the 3rd Millennium: Smart – Sustainable – Climate Neutral. Proceedings of REAL CORP 2021, 26th International Conference on Urban Development, Regional Planning and Information Society. Vienna, 2021"
+  editors:
+  - family-names: "Schrenk"
+    given-names: "M."
+  - family-names: "Popovich"
+    given-names: "V. V."
+  - family-names: "Zeile"
+    given-names: "P."
+  - family-names: "Elisei"
+    given-names: "P."
+  - family-names: "Beyer"
+    given-names: "C."
+  - family-names: "Ryser"
+    given-names: "J."
+  - family-names: "Stöglehner"
+    given-names: "G."
+  start: 481
+  end: 487
+  year: 2021
